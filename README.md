@@ -1,5 +1,5 @@
 # Mist.Works 🔮
-Autonomous Perception &amp; Image Based AI Framework Built For  @hyperliquidx
+Autonomous Perception &amp; Image Based AI Framework Built For Solana
 http://www.mist.works/
 
 # Features
@@ -21,8 +21,8 @@ How to contribute:
 
 
 # Acknowledgements
-- Inspired by ai16z eliza
-- Griffain
+![image](https://github.com/user-attachments/assets/e1bfbd19-54de-494a-9ed8-fd09c48bc0b1)
+
 
 
 
