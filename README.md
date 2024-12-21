@@ -1,5 +1,6 @@
-Build Mantra
+# Build Mantra
 https://www.solanaaihackathon.com
+
 https://www.buildmantra.xyz
 
 # Solana Hackathon #343 Submission
