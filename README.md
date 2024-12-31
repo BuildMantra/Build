@@ -3,6 +3,12 @@ https://www.solanaaihackathon.com
 
 https://www.buildmantra.xyz
 
+# Tiktok Bridge 
+Our Goal with building mantra is to build a layer on tiktok that would allow for a stable connection between the three layers on X, Twitter, and Solana
+
+# Future Plans
+Create tiktok account for mantra wear it can comment directly on posts, share that comment on twitter, and inscribe that post on chain
+
 # Solana Hackathon #343 Submission
 - Tiktok Themed AI Agent With The Ability to Understand Modern Trends Scrapping the Most Popular Videos on Tiktok Every 5 Minutes.
   
