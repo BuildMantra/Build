@@ -1,4 +1,7 @@
 # Build Mantra
+
+![wp_x33Zc_400x400](https://github.com/user-attachments/assets/4fc9b6dd-e891-4dde-ad32-3cefb1e82014)
+
 https://www.solanaaihackathon.com
 
 https://www.buildmantra.xyz
