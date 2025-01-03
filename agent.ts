@@ -129,4 +129,4 @@ async fn create_points(model: openai::EmbeddingModel) -> Vec<PointStruct> {
         })
         .collect()
 }
-//build development
+//build development 
