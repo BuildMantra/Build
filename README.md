@@ -55,7 +55,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/maushish/alris.git
+   git clone https://github.com/alristrade/alristrade
    cd alris
    ```
 
