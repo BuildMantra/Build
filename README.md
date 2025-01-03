@@ -90,8 +90,7 @@ Ensure you have the following installed:
 To learn more about the technologies used in Alris, check out the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - Learn about the Next.js framework.
-- [Solana Documentation](https://docs.solana.com/) - Understand how Solana works.
-- [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit) - Explore the tools used for building on Solana.
+- [Virtuals Documentation](https://whitepaper.virtuals.io/) - Understand how Solana works.
 - [CoinGecko API](https://www.coingecko.com/en/api) - Fetch token pricing data.
 - [Orca API](https://www.orca.so/) - Get yield pool data.
 
