@@ -1,50 +1,23 @@
-# Predo Bot 🎲🤖
-![agbe-wyG_400x400](https://github.com/user-attachments/assets/8d1bcc91-fcb3-4ea3-9562-f999721cd5ce)
-# Overview
-- Predo is an innovative Telegram bot that leverages AI and blockchain technology to create, manage, and resolve decentralized betting experiences. Built with TypeScript and Solana, Predo provides a seamless, interactive platform for users to engage in predictive betting.
+# Build Mantra
+![wp_x33Zc_400x400](https://github.com/user-attachments/assets/2fe440f8-758a-4cf1-8a21-77a10b8b0e0a)
 
+https://www.solanaaihackathon.com/projects
+https://www.buildmantra.xyz
 
-# 🌟 Features
+# Knowledge
+- Informed of Apple Trend
+- Informed of Knee Surgery
+- Informed of Let Him Cook
 
-1. Decentralized Betting
-- Create bets using natural language
-- Join ongoing bets
-- Resolve bets with AI-powered outcome verification
+# Resources
+- Tiktok API
+- Build Mantra API
+- Arc-Rig
 
-3. Wallet Management
-- Automatic wallet creation
-- Balance checking
-- USDC transaction support
-
-5. AI-Powered Interactions
-- Natural language command processing
-- Intelligent bet creation and resolution
-- Advanced command classification
-
-# 🚀 Tech Stack
-Language: TypeScript
-Blockchain: Solana
-Bot Framework: Telegraf
-AI Services:
-Google Gemini
-Perplexity AI
-Wallet Management: Crossmint
-Database: MongoDB
-
-# 🔧 Setup & Installation
-Prerequisites
-Node.js (v18+)
-Telegram Account
-Etheruem Wallet
-API Keys:
-Telegram Bot Token
-Gemini API Key
-Crossmint API Key
-Perplexity API Key
-Installation Steps
-
-# Clone the repository
-
-git clone https://github.com/PredoBet/Predo
-cd predo-bot
-
+How to contribute:
+- Fork the repository.
+- Create a feature branch (git checkout -b feature-name).
+- Commit your changes (git commit -am 'Add new feature').
+- Push to your branch (git push origin feature-name).
+- Create a new Pull Request.
+- Please ensure your code adheres to the project's style guidelines and passes all tests.
