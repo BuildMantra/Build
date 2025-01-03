@@ -2,7 +2,7 @@
 
 # Alris - AI-Driven Yield Optimizer and Auto-Trader
 
-Alris is an AI-powered platform designed to dynamically optimize yield and automate trading strategies on the Solana blockchain. Built with cutting-edge technologies, Alris utilizes real-time market data and integrates with Solana's infrastructure to execute informed data-driven transactions. This project is currently in its MVP (Minimum Viable Product) stage.
+Alris is an AI-powered platform designed to dynamically optimize yield and automate trading strategies on the Base layer 2 network. Built with cutting-edge technologies, Alris utilizes real-time market data and integrates with Base's infrastructure to execute informed data-driven transactions. This project is currently in its MVP (Minimum Viable Product) stage.
 
 ## MVP Demo
 
@@ -16,7 +16,7 @@ You can watch the demo video here: [Loom Video Link](https://www.loom.com/share/
 
 1. **Dynamic Yield Optimization**
    - Fetches real-time data from CoinGecko and Orca API.
-   - Leverages Solana Agent Kit for transaction execution and updates.
+   - Leverages Virtuals EVM Kit for transaction execution and updates.
 
 2. **AI-Driven Strategy**
    - Process market data through GPTv4 to determine optimal trading and yield strategies.
@@ -32,7 +32,7 @@ You can watch the demo video here: [Loom Video Link](https://www.loom.com/share/
 ## Technologies Used
 
 - **Next.js**: Framework for building the front end of the application.
-- **Solana Agent Kit**: This is for fetching wallet data and executing on-chain transactions.
+- **Virtuals EVM Kit**: This is for fetching wallet data and executing on-chain transactions.
 - **Switchboard Oracle**: Used to pull accurate and real-time data feeds.
 - **CoinGecko API**: Fetches price data for top trading tokens.
 - **Orca API**: Retrieves yield-generating pools.
