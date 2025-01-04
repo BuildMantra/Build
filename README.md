@@ -14,7 +14,7 @@ https://www.buildmantra.xyz
 - Automated Tweets: Based on the monitored TikTok content, the AI generates contextually relevant tweets.
 - Solana Integration: Future integration with Solana for decentralized content interaction and possible blockchain rewards.
 - AI-powered Content Analysis: The AI uses natural language processing and image recognition to summarize and understand TikTok posts, then shares them on Twitter.
-- 
+  
 # Why Mantra? 💭
 
 - Mantra opens up new opportunities for cross-platform engagement, allowing users to interact with trending TikTok content directly on Twitter. This creates an additional layer of social interaction, fostering a dynamic fusion of short-form video culture and text-based commentary. By utilizing Solana's blockchain, Mantra could explore decentralized features, rewards, and community-driven interactions in the future.
