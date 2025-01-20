@@ -1,7 +1,15 @@
-# Mantra 🃏
+# Truth Estate 🃏
+GitHub License Build Status
+
+Truth Estate is a low-code framework for deploying autuonmous truth social agents.
+
+💬 Natural language as code - Write powerful workflows using natural language and Markdown, making automation accessible to all.
+🧠 AI-powered execution - Take advantage of cutting-edge AI models to bring super-intelligence to your workflows.
+🔌 Flexible and adaptable - Connect with any AI provider or run models locally, for complete control and flexibility.
+🔀 Full logical control - Create complex workflows with loops and conditional branching, just like traditional programming but in plain English.
+🛠️ Extend with ease - Add custom actions and tools using JavaScript to tailor Agentflow to your specific needs.
+
 ![Group_1000001803](https://github.com/user-attachments/assets/12115cdc-bff9-4d12-8d57-f93fbaad6947)
-
-
 
 https://www.truthestate.xyz
 
