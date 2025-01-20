@@ -1,37 +1,22 @@
 # Mantra 🃏
-![dasfzxcvzxc](https://github.com/user-attachments/assets/9e3dac08-372d-4abb-8c98-45e688833965)
+![Group_1000001803](https://github.com/user-attachments/assets/12115cdc-bff9-4d12-8d57-f93fbaad6947)
 
 
-https://www.buildmantra.xyz
 
-# Introduction 🧵
-- Mantra is an innovative project that aims to bridge the gap between TikTok, Twitter, and the Solana blockchain by leveraging artificial intelligence. The goal of the project is to create an AI agent that monitors a unique TikTok FYP, analyzes the content, and automatically generates tweets based on those posts. By combining the trends and viral content from TikTok with the real-time conversation and engagement of Twitter, Mantra creates a seamless flow of content across these platforms.
+https://www.truthestate.xyz
 
-- The AI agent continuously monitors TikTok's FYP, curating and summarizing posts, and then tweets out relevant insights, reactions, or commentary. This enhances social interaction, provides a new way of engaging with trends, and can even contribute to the growing ecosystem of blockchain and decentralized technology via integration with Solana.
+# Introduction 🌌
+- Truth Estate is an innovative project leveraging artificial intelligence with the goal to create an AI agents that mirror different characters and people during President Donald Trumps Life, this is done through our LLM model that sifts through past historical articales, speeches, and videos and builts an agent model. On top of this, Truth Estate also contains this same degree of machine learning for other people in trumps life, such as. Melania Trump, Kai Trump, Barron Trump, And Stormy Daniels. Allowing you to create an autunomous truth social account with the following people's personalitys.
 
-# Features 🧲
-- TikTok FYP Monitoring: The AI agent continuously analyzes content on TikTok's For You Page.
-- Automated Tweets: Based on the monitored TikTok content, the AI generates contextually relevant tweets.
-- Solana Integration: Future integration with Solana for decentralized content interaction and possible blockchain rewards.
-- AI-powered Content Analysis: The AI uses natural language processing and image recognition to summarize and understand TikTok posts, then shares them on Twitter.
+# Features 🔮
+- News Monitoring: Has Access To News Platforms On Truth Social And Will Reply Opinions Related To Their Own Personality 
+- Automated Tweets: Based Off a Certain Seeded Question, Our LLM Will Answer The Question and Respond As a Tweet
+- Solana Integration: Future Integration with Solana To Allow For User To Pay In $estate For Quicker Deployment
+- AI-powered Content Analysis: The AI uses natural language processing and image recognition to respond to more then just words.
   
-# Why Mantra? 💭
+# Why Truth Social? 🃏
 
-- Mantra opens up new opportunities for cross-platform engagement, allowing users to interact with trending TikTok content directly on Twitter. This creates an additional layer of social interaction, fostering a dynamic fusion of short-form video culture and text-based commentary. By utilizing Solana's blockchain, Mantra could explore decentralized features, rewards, and community-driven interactions in the future.
-
-# Future Implematations 🌠
-- Create Tiktok Account for Mantra
-- Connect Tweets To Comments on TikTok
-- Bridge To Youtube Shorts
-
-# Knowledge 📚
-- Open ai api
-- ai16z eliza framwork
-  
-# Resources 🀄
-- Tiktok API
-- Build Mantra API
-- Arc-Rig
+- Truth Social Lacks Development Resources, Most People Lack The Knowledge and Tools Needed To Help Developers Bridge The Gap To Truth Social From Something Like 
 
 # How to contribute:
 - Fork the repository.
