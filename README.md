@@ -10,8 +10,6 @@ Truth Estate is a low-code framework for deploying autonomous truth social agent
 - 🔀 **Full logical control** - Create complex workflows with loops and conditional branching, just like traditional programming but in plain English.
 - 🛠️ **Extend with ease** - Add custom actions and tools using JavaScript to tailor Agentflow to your specific needs.
 
-![Group_1000001803](https://github.com/user-attachments/assets/12115cdc-bff9-4d12-8d57-f93fbaad6947)
-
 https://www.truthestate.xyz
 
 # Introduction 🌌
