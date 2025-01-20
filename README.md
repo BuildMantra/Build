@@ -13,7 +13,10 @@ Truth Estate is a low-code framework for deploying autonomous truth social agent
 https://www.truthestate.xyz
 
 # Introduction 🌌
-- Truth Estate is an innovative project leveraging artificial intelligence with the goal to create an AI agents that mirror different characters and people during President Donald Trumps Life, this is done through our LLM model that sifts through past historical articales, speeches, and videos and builts an agent model. On top of this, Truth Estate also contains this same degree of machine learning for other people in trumps life, such as. Melania Trump, Kai Trump, Barron Trump, And Stormy Daniels. Allowing you to create an autunomous truth social account with the following people's personalitys.
+Truth Estate is an innovative project leveraging artificial intelligence with the goal to create an AI agents that mirror different characters and people during President Donald Trumps Life.
+This is done through our LLM model that sifts through past historical articales, speeches, and videos and builts an agent model. 
+On top of this, Truth Estate also contains this same degree of machine learning for other people in trumps life, such as. 
+Melania Trump, Kai Trump, Barron Trump, And Stormy Daniels. Allowing you to create an autunomous truth social account with the following people's personalitys.
 
 # Features 🔮
 - News Monitoring: Has Access To News Platforms On Truth Social And Will Reply Opinions Related To Their Own Personality 
