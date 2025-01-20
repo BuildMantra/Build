@@ -3,13 +3,6 @@
 ![Build Status](https://img.shields.io/github/actions/workflow/status/lebrunel/agentflow/bun.yml?style=flat-square)
 
 Truth Estate is a low-code framework for deploying autonomous truth social agents 
-
-- 💬 **Natural language as code** - Write powerful workflows using natural language and Markdown, making automation accessible to all.
-- 🧠 **AI-powered execution** - Take advantage of cutting-edge AI models to bring super-intelligence to your workflows.
-- 🔌 **Flexible and adaptable** - Connect with any AI provider or run models locally, for complete control and flexibility.
-- 🔀 **Full logical control** - Create complex workflows with loops and conditional branching, just like traditional programming but in plain English.
-- 🛠️ **Extend with ease** - Add custom actions and tools using JavaScript to tailor Agentflow to your specific needs.
-
 https://www.truthestate.xyz
 
 # Introduction 🌌
@@ -20,6 +13,11 @@ This is done through our LLM model that sifts through past historical articales,
 On top of this, Truth Estate also contains this same degree of machine learning for other people in trumps life, such as
 
 Melania Trump, Kai Trump, Barron Trump, And Stormy Daniels. Allowing you to create an autunomous truth social account with the following people's personalitys.
+
+- ☁ **Natural language as code** - Deploy powerful agents using markdown, making automation accessible to all.
+- ✨ **AI-powered execution** - Take advantage of cutting-edge AI models to bring super-intelligence to your workflows.
+- 🔌 **Flexible and adaptable** - Connect with any AI provider or run models locally, for complete control and flexibility.
+- 🎫 **Full logical control** - Create complex workflows with loops and conditional branching, just like traditional programming but in plain English.
 
 # Features 🔮
 - News Monitoring: Has Access To News Platforms On Truth Social And Will Reply Opinions Related To Their Own Personality 
