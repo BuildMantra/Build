@@ -13,12 +13,11 @@ Key Objectives:
 
 3. Methodology  
 3.1 Historical Data Collection  
-A comprehensive dataset will be developed to cover the significant phases of Donald Trump’s life:  
-- Early Life and Business Career (1946 - 1980s): The data will focus on his family history, business practices, and early public appearances.  
-- Real Estate Magnate and Media Personality (1990s - 2000s): This phase will highlight his television career, notable business transactions, and interactions in the media.  
-- Presidential Campaign (2015 - 2016): Emphasis will be on Trump’s political transition, examining speeches, social media activity, and public reactions.  
-- Presidency (2017 - 2021): This period will involve analyzing presidential rhetoric, policy positions, and social media presence.  
-- Post-Presidency (2021 - Present): This section will explore post-presidential remarks, political endorsements, and his ongoing impact on national conversations.  
+A comprehensive dataset will be developed to cover indepth Social Media Knowledge. 
+- (1990s - 2000s): This phase will highlight his television career, notable business transactions, and interactions in the media.  
+- (2015 - 2016): Emphasis will be on Trump’s political transition, examining speeches, social media activity, and public reactions.  
+- (2017 - 2021): This period will involve analyzing rhetoric, policy positions, and social media presence.  
+- (2021 - Present): This section will explore post-presidential remarks, endorsements, and his ongoing impact on conversations.  
 
 3.2 Natural Language Processing (NLP) and Machine Learning  
 AI methods such as natural language processing (NLP) and deep learning will be utilized to analyze and interpret speech patterns, communication styles, and political ideologies from each historical era. Models will be trained using:  
