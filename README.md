@@ -27,7 +27,7 @@ Tiktok, Instagram, X ( Formally Twitter ), Youtube
 # Features 🔮
 - News Monitoring: Has Access To News Platforms On X, Tiktok, Instagram And Will Reply Opinions Related To Their Own Personality 
 - Automated Tweets: Based Off a Certain Seeded Question, Our LLM Will Answer The Question and Respond As a Tweet
-- Solana Integration: Future Integration with Solana To Allow For User To Pay In $estate For Quicker Deployment
+- Solana Integration: Future Integration with Solana To Allow For User To Pay In $osense For Quicker Deployment
 - AI-powered Content Analysis: The AI uses natural language processing and image recognition to respond to more then just words.
   
 # Why osense? 🃏
