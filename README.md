@@ -6,7 +6,7 @@
 
 
 
-Osense is a low-code framework for deploying autonomous social media agents 
+Osense is a low-code framework for analyzing video through autonomous agents 
 
 https://osense.fun/
 
