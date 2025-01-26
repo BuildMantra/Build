@@ -2,21 +2,22 @@
 ![GitHub License](https://img.shields.io/github/license/lebrunel/agentflow?style=flat-square)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/lebrunel/agentflow/bun.yml?style=flat-square)
 
-![manntrtra](https://github.com/user-attachments/assets/8f787d1d-5e85-4da8-85d5-437b0af1d475)
+![osenseeeee](https://github.com/user-attachments/assets/9abbafc4-6a64-47a9-b2c3-7ab2416a86ed)
 
 
-Build is a low-code framework for deploying autonomous social media agents 
 
-https://buildmantra.xyz/
+Osense is a low-code framework for deploying autonomous social media agents 
+
+https://osense.fun/
 
 # Introduction 🌌
-Build is an innovative project leveraging artificial intelligence with the goal to create an AI agents that mirror different characters and people on social media and build personalitys off them.
+Osense is an innovative project leveraging artificial intelligence with the goal to create an AI agents that mirror different characters and people on social media and build personalitys off them.
 
 This is done through our LLM model that sifts through past historical articales, speeches, and videos and builts an agent model. 
 
-On top of this, Build also contains this same degree of machine learning for other platforms, such as
+On top of this, Osense also contains this same degree of machine learning for other platforms, such as
 
-Tiktok, Instagram, X ( Formally Twitter ), Truth Social
+Tiktok, Instagram, X ( Formally Twitter ), Youtube
 
 - ☁ **Natural language as code** - Deploy powerful agents using markdown, making automation accessible to all.
 - ✨ **AI-powered execution** - Take advantage of cutting-edge AI models to bring super-intelligence to your workflows.
@@ -29,9 +30,9 @@ Tiktok, Instagram, X ( Formally Twitter ), Truth Social
 - Solana Integration: Future Integration with Solana To Allow For User To Pay In $estate For Quicker Deployment
 - AI-powered Content Analysis: The AI uses natural language processing and image recognition to respond to more then just words.
   
-# Why Buildl? 🃏
+# Why osense? 🃏
 
-- Tikok Lacks Development Resources, Most People Lack The Knowledge and Tools Needed To Help Developers Bridge The Gap To Tiktok From Something Like Twutter
+- Tracking Videos Through AI Lacks Development Resources, Most People Lack The Knowledge and Tools Needed To Help Developers Bridge The Gap To AI From Something Like Youtube
 
 # How to contribute:
 - Fork the repository.
